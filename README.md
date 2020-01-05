@@ -1,7 +1,7 @@
-### Ziqian Qiu
-### 5335950
+# Text Rain
+Ziqian Qiu
 
-# Design Decisions
+### Design Decisions
 1. I created three streams of text rain, the text contents are ```THIS IS A TEXT RAIN```, ```new rain added to the scene``` and ```This is for CSCI4611" respectively```. Each stream of rain is randomly assign a color.
 
 2. Each stream of rain is created after running draw() for 200 times after the creation of previous rain.
